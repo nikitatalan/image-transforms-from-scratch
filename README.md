@@ -14,7 +14,7 @@ The goal was to understand what image libraries do underneath, not to be fast.
 | --- | --- | --- | --- |
 | ![Skewed](examples/skew_0_3.png) | ![Transposed](examples/transpose.png) | ![Grayscale](examples/grayscale.png) | ![Edges](examples/edges.png) |
 
-Example image from [Pixabay](add the image's Pixabay page link here), used under the [Pixabay Content License](https://pixabay.com/service/license-summary/), resized to 480 px wide for the examples.
+Example image from [Pixabay](https://pixabay.com/photos/lin-zhi-tibet-snow-mountain-7151302/), used under the [Pixabay Content License](https://pixabay.com/service/license-summary/), resized to 480 px wide for the examples.
 
 ## Features
 
